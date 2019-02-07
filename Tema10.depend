@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1526836934 source:f:\poo\tema3\tema10\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<string.h>
+	<stdlib.h>
+
